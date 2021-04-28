@@ -52,10 +52,8 @@ public class TaskC2 {
         int[] array = reverse(6);
         System.out.println(Arrays.toString(array));
 
-        String[] str = stringToArray("Rob ghds hjsgj");
+        String[] str = stringToArray("Rob sam Henry");
         System.out.println(Arrays.toString(str));
-        System.out.println(str.length);
-
 
     }
 }

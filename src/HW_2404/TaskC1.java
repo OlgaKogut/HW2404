@@ -1,5 +1,4 @@
 package HW_2404;
-
 import java.util.Locale;
 
 public class TaskC1 {
@@ -13,7 +12,6 @@ public class TaskC1 {
         return ((beast.charAt(0) == dish.charAt(0)) && (beast.charAt(beast.length() - 1) == dish.charAt(dish.length() - 1)));
 
     }
-
 
     public static String tripleTrouble(String one, String two, String three) {
             String result = "";
@@ -48,6 +46,6 @@ public class TaskC1 {
         //System.out.println(abbrevName("ser NTvak"));
         //System.out.println(feast("great blue heron","garlic nann"));
         //System.out.println(tripleTrouble("ak", "bb", "cc"));
-        System.out.println(position('s'));
+        System.out.println(position('k'));
     }
 }
