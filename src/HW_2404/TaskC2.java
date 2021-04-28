@@ -6,9 +6,9 @@ public class TaskC2 {
 
     public static String boolToWord(boolean b)
     {
-        if (b == true) {
-            return "Yes";
-        }else return "No";
+        if (b == false) {
+            return "No";
+        }else return "Yes";
     }
 
     public static Integer basicMath(String op, int v1, int v2) {

@@ -45,7 +45,7 @@ public class TaskC1 {
     public static void main(String[] args){
         //System.out.println(abbrevName("ser NTvak"));
         //System.out.println(feast("great blue heron","garlic nann"));
-        //System.out.println(tripleTrouble("ak", "bb", "cc"));
+        System.out.println(tripleTrouble("ak", "bb", "cc"));
         System.out.println(position('k'));
     }
 }
